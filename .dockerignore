@@ -1,0 +1,16 @@
+.dockerignore
+# IDE history
+.history
+# not needed
+./node_modules
+npm-debug.log
+# no test for runtime
+./test
+# obsolete
+Dockerfile
+.git
+.gitignore
+.prettierrc
+README.md
+.env
+.npmrc
